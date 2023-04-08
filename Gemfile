@@ -28,6 +28,7 @@ group :test do
   gem 'capybara'
   gem 'launchy'
   gem 'simplecov'
+  gem 'net-http'
 end
 
 group :development do
